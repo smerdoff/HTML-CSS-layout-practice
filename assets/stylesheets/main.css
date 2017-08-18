@@ -20,6 +20,7 @@ h3 {
 }
 .read{
     font-size: 13px;
+    margin-top: -30px;
 }
 .col-1-2{
     width:470px;
@@ -41,12 +42,11 @@ h3 {
     vertical-align: top;
 }
 .col-1-4{
-    width:240px;
+    width:220px;
 }
 .footer-nav li {
     display: block;
-    margin: 0 10px;
-}
+    }
 .primary-nav ul{
     font: bold 18px "Times New Roman", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
@@ -123,6 +123,9 @@ a:hover {
 .primary-footer h3{
     color: #eaeaea;
 }
+.primary-footer ul{
+    padding-left: 0px;
+}
 .hero {
     background: #fff;
     min-width: 960px;
@@ -140,13 +143,13 @@ a:hover {
 .third  {
     margin-right:-30px;
 }
+.linkblock{
+    margin-right: 20px;
+}
 .linkblock h3{
     font-weight: bold;
     text-transform: uppercase;
-    margin-left: 40px;
-
-
-}
+    }
 .sect img{
     width:290px;
     height:180px;
